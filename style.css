@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: none;
+}
+
+nav{
+    border: solid;
+    text-align: center;
+    margin-bottom: 400px;
+
+}
+
+.container{
+    text-align: center;
+}
+
+#btn{
+    height: 70px;
+    width: 100px;
+    border-radius: 24px;
+}
+
+button{
+    background-color: blue;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+h2{
+    font-size: 50px;
+    font-weight: bolder ;
+}
